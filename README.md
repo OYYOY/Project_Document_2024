@@ -1,2 +1,2 @@
 # Project_Document_2024
-Reconfigurable_Topoligy为可实现CC/CV切换的WPT系统
+Reconfigurable_Topoligy为CC/CV切换的WPT系统
